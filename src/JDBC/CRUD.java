@@ -1,3 +1,5 @@
+package JDBC;
+
 import java.sql.*;
 public class CRUD {
     public static void main(String[] args) throws SQLException {
